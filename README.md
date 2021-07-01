@@ -1,4 +1,4 @@
-# Livro: Linguagem Assembly - INTRODUÇÃO AO PADRÃO INTEL 8086
+# Livro: Linguagem Assembly: Introdução ao padrão Intel 8086
 
 O objetivo central deste trabalho é ser um veículo de apresentação dos princípios preliminares e básicos que norteiam o início do aprendizado da linguagem de programação Assembly 8086/8088 de microcomputadores IBM-PC em baixo nível. Não há pretensão de explorar o tema com profundidade. Este livro é direcionado tão somente a leitores iniciantes. É uma introdução a atividade de programação em baixo nível. Se o leitor possui noções de programação em linguagem Assembly ou programação em baixo nível com opcodes, este material não é para você, pois não lhe acrescentará novos conhecimentos.
 
